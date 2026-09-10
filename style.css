@@ -20,7 +20,7 @@ body{
     background-color: hsl(0, 0%, 100%);
     text-align: left;
     padding: 15px 0 0 20px;
-   width: 300px;
+   max-width: 20rem;
    height: auto;
    border-radius: 20px;
    border: 2px solid black;
@@ -55,6 +55,7 @@ body{
 
 .paragraph{
     margin-bottom: 30px;
+    color:gray;
 }
 
 .footer{
